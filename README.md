@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying
+I'm full stack devloper
 
 
 # 💻 Tech Stack:
