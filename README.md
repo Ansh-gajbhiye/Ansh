@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://github.com/Ansh-gajbhiye.png" alt="Ansh Gajbhiye" />
+  <img height="300" src="./gitbanner.jpg" alt="Ansh Gajbhiye" />
 </p>
 
 # Hi there, I’m Ansh 
